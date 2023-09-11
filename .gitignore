@@ -44,3 +44,7 @@ dev
 
 *.key
 *.key.pub
+
+*.
+!.gitignore
+my-next-app-gpt
