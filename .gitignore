@@ -45,6 +45,8 @@ dev
 *.key
 *.key.pub
 
-.*
-!.gitignore
-my-next-app-gpt
+# my custom
+# 忽略所有以.env开头的文件或者文件夹
+.env*
+# 压缩后的.next
+.next.zip
